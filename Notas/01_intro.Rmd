@@ -1,0 +1,17 @@
+Cambio climático y pobreza
+========================================================
+
+na de las cuestiones más relevantes del cambio climático es sus potenciales implicaciones en el bienestar humano. Este documento tiene como objetivo vincular las estimaciones del impacto del cambio climático con los índices de pobreza.
+
+Este ejercicio intenta a
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r fig.width=7, fig.height=6}
+plot(cars)
+```
+
